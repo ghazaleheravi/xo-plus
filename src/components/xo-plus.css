@@ -1,0 +1,13 @@
+.xo-plus-container {
+  display: flex;
+}
+
+.xo-plus-container > .each-col {
+  border-right: 1px solid black;
+}
+
+.xo-plus-container > .each-col > .each-cell {
+  border-bottom: 1px solid black;
+  width: 100px;
+  height: 100px;
+}
